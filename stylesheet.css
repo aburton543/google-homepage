@@ -1,0 +1,173 @@
+/* CSS */
+
+
+
+.logo {
+	position: relative;
+	display: inline-block;
+	margin-top: 75px;
+	height: 250;
+	width: 550;
+	clear: both;
+
+
+}
+
+ .logo a {
+	text-decoration: none;
+
+}
+
+ #share {
+ 	display: inline;
+ 	position: absolute;
+ 	float: right;
+ 	bottom: 50%;
+ 	right: 12%;
+
+
+ }
+
+ #bell {
+ 	border: none;
+ 	background-color: white;
+ 	border-radius: 60px;
+ 	opacity: 0.4;
+ }
+
+#profile {
+	border-radius: 50%;
+	height: 25px;
+	width: 25px;
+	
+
+}
+
+
+ #bell:hover {
+ 	opacity: 1.0;
+ }
+
+#search {
+
+background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACrElEQVR42u2Xz2sTQRSAX8VSb1K8iNqKooJH2Ux6Ksn+iPQqxZMIehJB0do/IMhmQWsvHr2KSEGk0tSLIoWIYNUKij20F2/N7iaUZnYT0kYzzhMKs0HDJiTdLcwHDwKZSd63781LBiQSSW9JZdkhzfKm1Rz9mjZp/W9YdEU3vXv4HsQZ40FtNG36q5rls//Ej4tmbSS2T15Mvp3ExOPmEMQNbBtMMEyoljcFcQN7PqyAlqNfIG7gYQ0tYNIaxA1MrJPY3wImbUqBKAXSFv0tBSIVMOkvKRDtGKWN/T6FdqRAxFNoWwpEPIXqUqBT6ALU/UVgu8GW4GD3f6f9TRDYNJTDrk7YbtiqUumHwIYoUJuHERDAS0r4CvgFECgbY+cFAR7KT+g1POmCKFDNw6WggHc3fBtVb4CAoyauBgXIG+g1Xh5mRAGah6cggBd11fK/h7lOprIs0H6uRl6KAo5O7kOv4QmPiwJ4Jqqv4FiwCtXjvD2+tRmfK6kZ/ygI2HritK0rDVGgrClJ6DWMwYC/AGuCBMYcIC2V0CzvjmbRz3j3xUjn6CfeYreUJ2wQkGD75INPX1mFfsEFrrcIYCvdhC4paWQakxajpJMr0C9YFg54i7AsClRmh9/xnr0NHcInzZStk2aLwAcGMAD9pPIazvFKVDD5rdnhJeHLX5RTyRPQHpz5o66emMc9wdlPtvA8wF7Aq2BUHh1525qEo5JtR1WeOXpickO9cJIpyuD6xJmhYiZ5ytWSl3mlnuOaf+2zDaLDXmJrSgZ/MYVEugo+gSh+FkSBa4yd5Ul87DZ5XpFl/AyIEjzYjkau8WqshU2cr13HPbgX4gJOD97n465GZlyVvC9mSKloKI2iTnbwNT+gBX54H+IaXAtxJzE3ycSAFqSAFJACUkAikXD+AHj5/wx2o5osAAAAAElFTkSuQmCC");
+background-size: 25px 25px;
+background-repeat: no-repeat;
+background-position: center right;
+font-size: 14px;
+}
+
+#header {
+padding-top: 10px;
+font-size: 12px;
+font-family: sans-serif;
+float: right;
+position: absolute;
+right: 0;
+
+}
+
+.header {
+padding-right: 10px;
+
+
+}
+
+#header a:link {
+	color: black;
+	text-decoration: none;
+
+}
+
+#header a:hover {
+	text-decoration: underline;
+
+}
+
+input:focus {
+	border: 1px solid blue;
+
+}
+
+.button {
+	margin-top: 20px;
+	padding: 10px;
+	color: gray;
+	background-color: #efefef;
+	font-size: 12px;
+	font-family: sans-serif;
+	font-weight: bold;
+	display: inline-block;
+	border: none;
+}
+
+.button:hover {
+	border: 1px #d9d9d9 solid;
+}
+
+.french {
+	font-size: 12px;
+	font-family: sans-serif;
+	margin-top: 25px;
+
+}
+
+.french a:link {
+	text-decoration: none;
+	color: navy;
+
+}
+
+.french a:hover{
+	text-decoration: underline;
+	color: navy;
+}
+ 
+#footer {
+	width: 100%;
+	clear: both;
+	background-color: #efefef;
+	font-size: 11px;
+	font-family: sans-serif;
+	position: absolute;
+	bottom: 0;
+	line-height: 40px;
+	border: #d9d9d9 1px solid;
+	
+
+	
+}
+
+#footer a:link {
+	color: gray;
+	text-decoration: none;
+}
+
+#footer a:hover {
+	text-decoration: underline;
+}
+
+.l-footer {
+	padding-left: 20px;
+	float: left;
+
+}
+
+.r-footer {
+	padding-left: 20px;
+	float: right;
+}
+
+#settings {
+	margin-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
